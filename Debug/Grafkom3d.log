@@ -1,0 +1,117 @@
+﻿  mainGrafkom3d.cpp
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(8,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(9,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(182,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(217,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(261,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(262,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(554,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(554,133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(554,129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(639,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(662,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(687,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(708,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(772,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1000,151): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1002,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1004,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1006,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1012,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1052,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1053,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1055,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1056,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1065,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1070,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1072,1): warning C4091: '': ignored on left of 'int' when no variable is declared
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1078,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(1086,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(13,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(20,109): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(21,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(58,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(59,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(60,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(62,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(63,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(64,65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(65,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(67,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(68,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(69,66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(70,79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(74,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(75,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(76,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(78,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(79,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(80,66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(81,79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(83,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(84,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(85,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(86,80): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(90,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(91,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(92,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(94,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(95,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(96,66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(97,79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(99,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(100,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(101,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(102,80): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(106,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(107,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(108,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(110,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(111,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(112,65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(113,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(115,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(116,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(117,66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(118,79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(122,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(123,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(124,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(126,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(127,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(128,65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(129,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(131,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(132,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(133,66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(134,79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(138,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(139,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(140,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(142,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(143,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(144,66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(145,79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(147,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(148,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(149,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(150,80): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(324,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(336,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(337,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(338,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(339,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(340,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(341,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(351,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(352,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(356,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(357,134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(390,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(394,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(395,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(404,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(408,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(409,117): warning C4305: 'argument': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Grafkom3d.vcxproj -> C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Debug\Grafkom3d.exe
